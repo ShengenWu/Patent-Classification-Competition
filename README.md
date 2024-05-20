@@ -1,7 +1,7 @@
 # Patent-Classification-Competition
 This the code of the Patent Classification Competition, found by CCF &amp; Patsnap
 ## Update Log
-这是2022年由CCF&Patsnap主办的专利分类大赛
+这是2022年由CCF&Patsnap主办的专利分类大赛。  
 我们在A榜实现了61.59%的正确率，在A榜截止前保持Top40 Nationwide。
 我们主要探索了以下提分方法：
 
